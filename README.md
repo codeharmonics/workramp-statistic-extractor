@@ -1,15 +1,13 @@
 # workramp-statistic-extractor
 
+## Introduction
+The purpose of this project is to extract qualitative feedback and ratings made by users of workramp courses. 
 
-The purpose of this project is to extract qualitative feedback and ratings made by users of workramp courses. Workramp sends us CSV files for every course. The goal is to extract the pertinent information from each CSV.
+Workramp sends us CSV files for every course. The goal is to extract the pertinent information from each CSV. This project reads all the csv files and places the contents into two files: one for the feedback, the other for ratings.
 
-This extract project reads all the csv files and places the contents into two files: one for the feedback, the other for ratings.
+## Here how to use it.
 
-Here how to use it.
-
--------------------------
-
-To run the extract program
+### Getting Started
 
 1. clone this project
 --- you should have 1 file in the project's root folder: "extract.php"
@@ -24,7 +22,7 @@ To run the extract program
 
 Done. Feedback and ratings are in results folder.
 
------------------------
+### Running the program
 
 To get the feedback and ratings
 
