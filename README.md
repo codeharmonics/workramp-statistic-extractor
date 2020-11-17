@@ -5,8 +5,6 @@ The purpose of this project is to extract qualitative feedback and ratings made 
 
 Workramp sends us CSV files for every course. The goal is to extract the pertinent information from each CSV. This project reads all the csv files and places the contents into two files: one for the feedback, the other for ratings.
 
-## Here how to use it.
-
 ### Getting Started
 
 1. clone this project
